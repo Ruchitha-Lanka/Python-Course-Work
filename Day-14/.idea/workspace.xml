@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db5f9a9-3d79-4b46-bb72-5ffea8bc796c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Python-Course-Work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-01/.idea/Day-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-02/.idea/Day-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/.idea/Day-06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/PNZ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/PerfectSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/PositiveNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Condition/cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/ATM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Caluculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Degrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Discount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Disscount1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/Greetings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/GuessNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/If-Else-If-Condition/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Centuary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Century.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/LargestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Multiple07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/PN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Smallest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/Spalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/VoteEligible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/VowCon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/absolute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-06/if-else-Condition/sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-07/List/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-07/List/max_min_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-07/List/removeduplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-07/List/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-07/indexcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-10.0_Loops/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-10_ConditionalStatements/Practice_if_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-10_ConditionalStatements/Practice_if_else_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-10_ConditionalStatements/Practice_if_else_if_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-11/Class_Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-11/Practice_Numbers_Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-11/Practice_Star_Patterns.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3LGP6fJMaPGJFP4SO4ANnE6VxMA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lanka/OneDrive/Desktop/Python-Course-Work/Day-14"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Day-14" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db5f9a9-3d79-4b46-bb72-5ffea8bc796c" name="Changes" comment="" />
+      <created>1793077257727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793077257727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
